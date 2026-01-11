@@ -1,5 +1,5 @@
 function Home () { 
-    return <h1>Mabe, vc sabia ue vc é uma pessoa especial?</h1>
+    return <h1>teste</h1>
 }
 
 export default Home;
